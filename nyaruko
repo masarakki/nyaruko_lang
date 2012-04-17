@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+# -*- coding: utf-8 -*-
+
+require 'r-fxxk'
+
+class Nyaruko < BrainFuck
+  nxt '(」・ω・)」うー(／・ω・)／にゃー'
+  inc '(」・ω・)」うー!(／・ω・)／にゃー!'
+  prv '(」・ω・)」うー!!(／・ω・)／にゃー!!'
+  dec '(」・ω・)」うー!!!(／・ω・)／にゃー!!!'
+  opn 'CHAOS☆CHAOS!'
+  cls 'I WANNA CHAOS!'
+  put "Let's＼(・ω・)／にゃー﻿"
+  get 'cosmic!'
+end
+
+puts Nyaruko.new.fuck(ARGF.read)
+

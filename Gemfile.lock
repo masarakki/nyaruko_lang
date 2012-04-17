@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    r-fxxk (0.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  r-fxxk
