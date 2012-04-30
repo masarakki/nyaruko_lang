@@ -10,7 +10,7 @@ class Nyaruko < BrainFuck
   dec '(」・ω・)」うー!!!(／・ω・)／にゃー!!!'
   opn 'CHAOS☆CHAOS!'
   cls 'I WANNA CHAOS!'
-  put "Let's＼(・ω・)／にゃー﻿"
+  put "Let's＼(・ω・)／にゃー"
   get 'cosmic!'
 end
 
