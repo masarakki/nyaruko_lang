@@ -3,7 +3,7 @@
 
 require 'r-fxxk'
 
-class Nyaruko < BrainFuck
+class Nyaruko < Brainfuck
   nxt '(」・ω・)」うー(／・ω・)／にゃー'
   inc '(」・ω・)」うー!(／・ω・)／にゃー!'
   prv '(」・ω・)」うー!!(／・ω・)／にゃー!!'
